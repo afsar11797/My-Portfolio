@@ -1,16 +1,25 @@
-# Task: Remove Brightness Feature and Fix Navigation Error
+# Navbar Overview for jaagrav.in
 
-## Steps to Complete:
+## Functionality
+- The navbar is responsive and adapts to scroll position.
+- Contains links to:
+  - Home
+  - Skills
+  - Projects
+  - Contact
+  - Resume (external link)
+- Smooth scrolling to sections when links are clicked.
+- Mobile menu toggle functionality.
 
-1. [ ] Remove brightness control input from Navbar.jsx
-2. [ ] Add ID="home" to HeroSection component
-3. [ ] Test navigation functionality
+## Styling
+- Fixed position at the top with a semi-transparent background and blur effect.
+- Responsive design with styles for mobile screens.
+- Hover effects on links for better user interaction.
 
-## Files to Edit:
-- src/components/Navbar.jsx
-- src/components/HeroSection.jsx
+## Potential Improvements
+- Consider adding active link highlighting to indicate the current section.
+- Implement accessibility features such as ARIA roles for better screen reader support.
+- Enhance mobile menu animations for a smoother user experience.
 
-## Progress:
-- [x] Step 1: Remove brightness control
-- [x] Step 2: Add ID to HeroSection
-- [x] Step 3: Test navigation
+## Conclusion
+The navbar is well-structured and functional, providing a good user experience. Further enhancements can improve accessibility and interactivity.

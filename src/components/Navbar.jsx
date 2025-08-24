@@ -26,22 +26,23 @@ const Navbar = () => {
     { id: 'home', label: 'Home' },
     { id: 'skills', label: 'Skills' },
     { id: 'projects', label: 'Projects' },
-{ id: 'contact', label: 'Contact' }
-]
+    { id: 'contact', label: 'Contact' }
+  ];
+
   return (
     <nav className={`navbar ${isScrolled ? 'navbar-scrolled' : ''}`}>
       <div className="navbar-container">
         <div className="navbar-logo">
-            <a 
-              href="#home" 
-              onClick={(e) => {
-                e.preventDefault();
-                scrollToSection('home');
-              }}
-              className="logo-text"
-            >
-              AA
-            </a>
+          <a 
+            href="#home" 
+            onClick={(e) => {
+              e.preventDefault();
+              scrollToSection('home');
+            }}
+            className="logo-text"
+          >
+            AA
+          </a>
         </div>
 
         <div className={`navbar-menu ${isMobileMenuOpen ? 'navbar-menu-open' : ''}`}>
