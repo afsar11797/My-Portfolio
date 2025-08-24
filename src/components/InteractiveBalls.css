@@ -1,0 +1,18 @@
+.ball-container {
+  position: relative;
+  width: 100%;
+  height: 100vh; /* Full height for interaction */
+  overflow: hidden;
+}
+
+.ball {
+  position: absolute;
+  border-radius: 50%;
+  transition: transform 0.2s ease;
+  cursor: pointer;
+  z-index: 10; /* Added z-index for visibility */
+}
+
+.ball:hover {
+  transform: scale(1.2); /* Grow effect on hover */
+}

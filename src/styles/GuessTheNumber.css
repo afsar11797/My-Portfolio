@@ -1,0 +1,45 @@
+.guess-the-number {
+  background-color: #f9f9f9;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  padding: 20px;
+  text-align: center;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.guess-the-number h2 {
+  margin-bottom: 15px;
+  color: #333;
+}
+
+.guess-the-number p {
+  margin-bottom: 20px;
+  color: #666;
+}
+
+.guess-the-number input {
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  width: 60%;
+  margin-right: 10px;
+}
+
+.guess-the-number button {
+  padding: 10px 15px;
+  border: none;
+  border-radius: 4px;
+  background-color: #007bff;
+  color: white;
+  cursor: pointer;
+}
+
+.guess-the-number button:hover {
+  background-color: #0056b3;
+}
+
+.guess-the-number .char-count {
+  margin-top: 10px;
+  font-size: 12px;
+  color: #999;
+}
