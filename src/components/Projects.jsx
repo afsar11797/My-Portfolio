@@ -64,7 +64,7 @@ const Projects = () => {
       id: 5,
       title: 'National Hardware',
       image: '/logo/National Hardware.png',
-      description: 'An e-commerce website for a hardware shop showcasing different hardware items. Built using HTML, CSS, JavaScript, PHP, and MySQL with responsive design.',
+      description: 'An e-commerce website for a hardware shop showcasing different hardware items. It does;nt matter where you are stuck just vist National hardware and get your desired tool in your door step within few minutes.',
       technologies: ['HTML', 'CSS', 'JavaScript', 'PHP', 'MySQL'],
       liveUrl: 'https://nationalhardwaremart.netlify.app/',
       githubUrl: 'https://github.com/afsar11797/National-harware',
