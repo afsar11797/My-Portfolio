@@ -79,6 +79,16 @@ const Projects = () => {
       liveUrl: 'https://the-royal-hotel.netlify.app/',
       githubUrl: 'https://github.com/afsar11797',
       category: 'Hospitality'
+    },
+    {
+      id: 7,
+      title: 'Dusterzz',
+      image: '/logo/placeholder-image.jpg', // Placeholder for now
+      description: 'It is a cleaning service company built using React.js, CSS, and Node.',
+      technologies: [], // Placeholder for now
+      liveUrl: 'https://dusterzz.com',
+      githubUrl: 'https://github.com/afsar11797/dusterzz',
+      category: 'Hospitality'
     }
   ];
 
