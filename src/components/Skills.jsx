@@ -57,6 +57,12 @@ const Skills = () => {
       image: '/logo/MySQL-Logo.wine.png',
       level: 82,
       color: '#4479A1'
+    },
+    {
+      name: 'MongoDB',
+      image: '/logo/MongoDB.png',
+      level: 52,
+      color: '#4479A1'
     }
   ];
 
