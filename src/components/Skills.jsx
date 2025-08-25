@@ -25,19 +25,19 @@ const Skills = () => {
     {
       name: 'HTML',
       image: '/logo/icons8-html-480.png',
-      level: 95,
+      level: 100,
       color: '#E34F26'
     },
     {
       name: 'CSS',
       image: '/logo/icons8-css-240.png',
-      level: 90,
+      level: 100,
       color: '#1572B6'
     },
     {
       name: 'JavaScript',
       image: '/logo/icons8-javascript-240.png',
-      level: 88,
+      level: 90,
       color: '#F7DF1E'
     },
     {
@@ -49,18 +49,18 @@ const Skills = () => {
     {
       name: 'GitHub',
       image: '/logo/GitHub-Logo.wine.png',
-      level: 85,
+      level: 98,
       color: '#181717'
     },
     {
       name: 'MySQL',
       image: '/logo/MySQL-Logo.wine.png',
-      level: 82,
+      level: 100,
       color: '#4479A1'
     },
     {
       name: 'MongoDB',
-      image: '/logo/MongoDB-480.png',
+      image: '/logo/icons8-mongodb-480.png',
       level: 52,
       color: '#4479A1'
     }

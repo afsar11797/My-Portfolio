@@ -41,7 +41,7 @@ const Navbar = () => {
             }}
             className="logo-text"
           >
-            AA
+           M.A.A
           </a>
         </div>
 
