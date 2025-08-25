@@ -24,10 +24,10 @@ const Projects = () => {
       id: 1,
       title: 'Iqra Leather',
       image: '/logo/Iqra Logo.jpg',
-      description: 'Iqra leather is a leather finished goods company. The website is designed using HTML, CSS, and JavaScript showcasing all their products, locations, and factory images.',
+      description: 'Iqra leather is a leather finished goods company. It provides all type of leather goods even finished leather you can customize leather as per your will and design your product also.',
       technologies: ['HTML', 'CSS', 'JavaScript'],
       liveUrl: 'https://iqraleatherco.com/',
-      githubUrl: 'https://github.com/afsar11797',
+      githubUrl: 'https://github.com/afsar11797/Iqra',
       category: 'E-commerce'
     },
     {
@@ -37,7 +37,7 @@ const Projects = () => {
       description: 'Tijarah International is a leather finished goods company offering safety and fancy gloves as well as apparel made from leather. The website showcases products and factory images.',
       technologies: ['HTML', 'CSS', 'JavaScript'],
       liveUrl: 'https://tijarahinternational.netlify.app/',
-      githubUrl: 'https://github.com/afsar11797',
+      githubUrl: 'https://github.com/afsar11797/Tijarah-International',
       category: 'E-commerce'
     },
     {
@@ -47,7 +47,7 @@ const Projects = () => {
       description: 'A popular brand holding company that makes Indian snacks, sweets, and savories. The website is designed for educational purposes to showcase traditional Indian cuisine.',
       technologies: ['HTML', 'CSS'],
       liveUrl: 'https://bhikaramchandimal.netlify.app/',
-      githubUrl: 'https://github.com/afsar11797',
+      githubUrl: 'https://github.com/afsar11797/Bhikaram-Chandimal',
       category: 'Food & Beverage'
     },
     {
@@ -57,7 +57,7 @@ const Projects = () => {
       description: 'A club focused on different styles of art teaching, formerly dance and instrumental. The website is designed with responsive coding for smaller screens.',
       technologies: ['HTML', 'CSS'],
       liveUrl: 'https://geetanjaliclub.netlify.app/',
-      githubUrl: 'https://github.com/afsar11797',
+      githubUrl: 'https://github.com/afsar11797/Geetanjali-club',
       category: 'Education'
     },
     {
@@ -67,25 +67,25 @@ const Projects = () => {
       description: 'An e-commerce website for a hardware shop showcasing different hardware items. Built using HTML, CSS, JavaScript, PHP, and MySQL with responsive design.',
       technologies: ['HTML', 'CSS', 'JavaScript', 'PHP', 'MySQL'],
       liveUrl: 'https://nationalhardwaremart.netlify.app/',
-      githubUrl: 'https://github.com/afsar11797',
+      githubUrl: 'https://github.com/afsar11797/National-harware',
       category: 'E-commerce'
     },
     {
       id: 6,
       title: 'The Royal Hotel',
       image: '/logo/royalhotel.png',
-      description: 'An international hotel booking website built with HTML, CSS, JavaScript, Bootstrap, and MySQL. Features responsive coding for smaller screens and modern design.',
+      description: 'An international hotel booking website if you are travelling just log in to the website and book a scenic view room where you will forget your worries away.',
       technologies: ['HTML', 'CSS', 'JavaScript', 'Bootstrap', 'MySQL'],
       liveUrl: 'https://the-royal-hotel.netlify.app/',
-      githubUrl: 'https://github.com/afsar11797',
+      githubUrl: 'https://github.com/afsar11797/Royal-Hotel',
       category: 'Hospitality'
     },
     {
       id: 7,
       title: 'Dusterzz',
-      image: '/logo/placeholder-image.jpg', // Placeholder for now
-      description: 'It is a cleaning service company built using React.js, CSS, and Node.',
-      technologies: [], // Placeholder for now
+      image: '/logo/logo.png', 
+      description: 'It is a cleaning service company which deals in all types of cleaning from house to office to facade. You want to clean any things just call Dusterzz',
+      technologies: ['JavaScript', 'React.js' , 'CSS'], 
       liveUrl: 'https://dusterzz.com',
       githubUrl: 'https://github.com/afsar11797/dusterzz',
       category: 'Hospitality'
