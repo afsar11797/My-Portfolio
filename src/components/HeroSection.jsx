@@ -34,8 +34,8 @@ const HeroSection = () => {
   return (
     <div style={{ position: 'relative', height: '100vh', overflow: 'hidden' }}>
       <InteractiveCanvas />
-      <div id="home" style={{ position: 'absolute', top: '50%', left: '50%', transform: 'translate(-50%, -50%)', color: 'white', textAlign: 'center' }}>
-        <h1 style={{ fontSize: '.8rem', fontWeight: 'bold', textShadow: '2px 2px 4px rgb(0 1 237)' }}>Hi, I'm Md Arsalan Afsar</h1>
+      <div id="home" style={{ position: 'absolute', top: '50%', left: '50%', transform: 'translate(-50%, -50%)', color: 'black', textAlign: 'center' }}>
+        <h1 style={{ fontSize: '1rem', fontWeight: 'bold', fontStyle: 'italic' }}>Hi, I'm MD ARSALAN AFSAR</h1>
         <p style={{ fontSize: '4.5rem', textShadow: 'rgb(19 178 197) 1px 1px 2px' }}>Building Websites</p>
         <p style={{ fontSize: '4.5rem', textShadow: '1px 1px 2px rgb(19 178 197)' }}>Finance Manager & </p>
         <p style={{ fontSize: '4.5rem', textShadow: '1px 1px 2px rgb(19 178 197)' }}>Analyst</p>
