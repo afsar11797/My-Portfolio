@@ -32,9 +32,9 @@ const HeroSection = () => {
   ];
 
   return (
-    <div style={{ position: 'relative', height: '100vh', overflow: 'hidden' }}>
+    <div style={{ position: 'relative', overflow: 'hidden' }}>
       <InteractiveCanvas />
-      <div id="home" style={{ position: 'absolute', top: '50%', left: '50%', transform: 'translate(-50%, -50%)', color: 'black', textAlign: 'center' }}>
+      <div id="home" style={{ display: 'flex', flexDirection:'column',alignItems:'center', textAlign: 'center' }}>
         <h1 style={{ fontSize: '1rem', fontWeight: 'bold', fontStyle: 'italic' }}>Hi, I'm MD ARSALAN AFSAR</h1>
         <p style={{ fontSize: '4.5rem', textShadow: 'rgb(19 178 197) 1px 1px 2px' }}>Building Websites</p>
         <p style={{ fontSize: '4.5rem', textShadow: '1px 1px 2px rgb(19 178 197)' }}>Finance Manager & </p>
