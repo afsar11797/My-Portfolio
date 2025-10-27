@@ -28,7 +28,7 @@ const Projects = () => {
       technologies: ['HTML', 'CSS', 'JavaScript'],
       liveUrl: 'https://iqraleatherco.com/',
       githubUrl: 'https://github.com/afsar11797/Iqra',
-      category: 'E-commerce'
+      category: 'Business'
     },
     {
       id: 2,
@@ -38,7 +38,7 @@ const Projects = () => {
       technologies: ['HTML', 'CSS', 'JavaScript'],
       liveUrl: 'https://tijarahinternational.netlify.app/',
       githubUrl: 'https://github.com/afsar11797/Tijarah-International',
-      category: 'E-commerce'
+      category: 'Business'
     },
     {
       id: 3,
@@ -88,7 +88,7 @@ const Projects = () => {
       technologies: ['JavaScript', 'React.js' , 'CSS'], 
       liveUrl: 'https://dusterzz.com',
       githubUrl: 'https://github.com/afsar11797/dusterzz',
-      category: 'Hospitality'
+      category: 'Business'
     }
   ];
 
