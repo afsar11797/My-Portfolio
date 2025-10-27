@@ -35,8 +35,8 @@ const Projects = () => {
       title: 'Tijarah International',
       image: '/logo/Tijarah.png',
       description: 'Tijarah International is a leather finished goods company offering safety and fancy gloves as well as apparel made from leather. The website showcases products and factory images.',
-      technologies: ['HTML', 'CSS', 'JavaScript'],
-      liveUrl: 'https://tijarahinternational.netlify.app/',
+      technologies: ['Wordpress', 'CSS', 'JavaScript', 'HTML', 'PHP'],
+      liveUrl: 'https://tijarahinternational.com/',
       githubUrl: 'https://github.com/afsar11797/Tijarah-International',
       category: 'Business'
     },
@@ -45,7 +45,7 @@ const Projects = () => {
       title: 'Bhikaram Chandimal',
       image: '/logo/Bikaram Chandimal.jpg',
       description: 'A popular brand holding company that makes Indian snacks, sweets, and savories. The website is designed for educational purposes to showcase traditional Indian cuisine.',
-      technologies: ['HTML', 'CSS'],
+      technologies: ['HTML', 'CSS','SCSS'],
       liveUrl: 'https://bhikaramchandimal.netlify.app/',
       githubUrl: 'https://github.com/afsar11797/Bhikaram-Chandimal',
       category: 'Food & Beverage'
@@ -55,7 +55,7 @@ const Projects = () => {
       title: 'Geetanjali Club',
       image: '/logo/Geetanjali.png',
       description: 'A club focused on different styles of art teaching, formerly dance and instrumental. The website is designed with responsive coding for smaller screens.',
-      technologies: ['HTML', 'CSS'],
+      technologies: ['HTML', 'CSS','SCSS'],
       liveUrl: 'https://geetanjaliclub.netlify.app/',
       githubUrl: 'https://github.com/afsar11797/Geetanjali-club',
       category: 'Education'
@@ -75,7 +75,7 @@ const Projects = () => {
       title: 'The Royal Hotel',
       image: '/logo/royalhotel.png',
       description: 'An international hotel booking website if you are travelling just log in to the website and book a scenic view room where you will forget your worries away.',
-      technologies: ['HTML', 'CSS', 'JavaScript', 'Bootstrap', 'MySQL'],
+      technologies: ['HTML', 'CSS', 'JavaScript', 'Bootstrap', 'MySQL', 'SCSS'],
       liveUrl: 'https://the-royal-hotel.netlify.app/',
       githubUrl: 'https://github.com/afsar11797/Royal-Hotel',
       category: 'Hospitality'
