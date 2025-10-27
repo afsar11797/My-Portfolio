@@ -42,6 +42,17 @@ const Projects = () => {
     },
     {
       id: 3,
+      title: 'Dusterzz',
+      image: '/logo/logo.png', 
+      description: 'It is a cleaning service company which deals in all types of cleaning from house to office to facade. You want to clean any things just call Dusterzz',
+      technologies: ['JavaScript', 'React.js' , 'CSS'], 
+      liveUrl: 'https://dusterzz.com',
+      githubUrl: 'https://github.com/afsar11797/dusterzz',
+      category: 'Business'
+    }
+    ,
+    {
+      id: 4,
       title: 'Bhikaram Chandimal',
       image: '/logo/Bikaram Chandimal.jpg',
       description: 'A popular brand holding company that makes Indian snacks, sweets, and savories. The website is designed for educational purposes to showcase traditional Indian cuisine.',
@@ -51,7 +62,7 @@ const Projects = () => {
       category: 'Food & Beverage'
     },
     {
-      id: 4,
+      id: 5,
       title: 'Geetanjali Club',
       image: '/logo/Geetanjali.png',
       description: 'A club focused on different styles of art teaching, formerly dance and instrumental. The website is designed with responsive coding for smaller screens.',
@@ -61,7 +72,7 @@ const Projects = () => {
       category: 'Education'
     },
     {
-      id: 5,
+      id: 6,
       title: 'National Hardware',
       image: '/logo/National Hardware.png',
       description: 'An e-commerce website for a hardware shop showcasing different hardware items. It does;nt matter where you are stuck just vist National hardware and get your desired tool in your door step within few minutes.',
@@ -71,7 +82,7 @@ const Projects = () => {
       category: 'E-commerce'
     },
     {
-      id: 6,
+      id: 7,
       title: 'The Royal Hotel',
       image: '/logo/royalhotel.png',
       description: 'An international hotel booking website if you are travelling just log in to the website and book a scenic view room where you will forget your worries away.',
@@ -79,16 +90,6 @@ const Projects = () => {
       liveUrl: 'https://the-royal-hotel.netlify.app/',
       githubUrl: 'https://github.com/afsar11797/Royal-Hotel',
       category: 'Hospitality'
-    },
-    {
-      id: 7,
-      title: 'Dusterzz',
-      image: '/logo/logo.png', 
-      description: 'It is a cleaning service company which deals in all types of cleaning from house to office to facade. You want to clean any things just call Dusterzz',
-      technologies: ['JavaScript', 'React.js' , 'CSS'], 
-      liveUrl: 'https://dusterzz.com',
-      githubUrl: 'https://github.com/afsar11797/dusterzz',
-      category: 'Business'
     }
   ];
 
